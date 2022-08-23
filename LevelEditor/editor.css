@@ -1,0 +1,26 @@
+@font-face { font-family: 'Sparkasse';
+    src: url('../font/Sparkasse_Rg.ttf') format('truetype'); }
+
+body{
+    /*FIXME Font geht nicht in Firefox*/
+    background: white;
+    font-family: Sparkasse;
+    color: black;
+    padding:0;
+    margin:0;
+}
+
+.centered{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+/*
+h1{
+    font-family: sans-serif;
+}*/
+
+#fi{
+    color: red;
+}
+

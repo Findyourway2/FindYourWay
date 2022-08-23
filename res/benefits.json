@@ -1,0 +1,74 @@
+{
+  "benefits":[
+    {
+      "title":"Vermögenswirksame Leistungen",
+      "text": "Die Finanz Informatik zahlt monatlich 40 € für seine Arbeitnehmer direkt in eine spezielle Geldanlage ein, welche Du Dir selbstverständlich aussuchen darfst, um ein sicheres Vermögen aufzubauen.",
+      "imagePath":"../res/VL.png"
+    },
+    {
+      "title":"Bahncard 50",
+      "text": "Alle Auszubildenden erhalten bei der Finanz Informatik eine Bahncard 50, damit bezahlst Du deutschlandweit nur noch die Hälfte für Dein Zugticket, auch privat!",
+      "imagePath":"../res/bahncard.png"
+    },
+    {
+      "title":"Seminare",
+      "text": "Mit professionellen und zielgerichteten Seminaren bringen wir Dir relevante Berufskenntnisse bei, um Dich und Deine Fertigkeiten immer auf dem neuesten Stand zu halten.",
+      "imagePath":"../res/seminare.png"
+    },
+    {
+      "title":"Vergütung",
+      "text": "Mit einer Ausbildungsvergütung von anfangs 1146 € bis 1270 € bist Du mit uns einer der top-verdienenden Auszubildenden!",
+      "imagePath":"../res/verguetung.png"
+    },
+    {
+      "title":"Urlaub",
+      "text": "Wir bieten Dir 30 Tage Urlaub, damit sind wir deutlich über dem gesetzlichen Minimum von nur 20 Tagen.",
+      "imagePath":"../res/urlaub.png"
+    },
+    {
+      "title":"Flexible Arbeitszeiten",
+      "text": "Bei der Finanz Informatik sind Deine Arbeitszeiten flexibel, kein klassisches 9-To-5, die perfekte Work-Life-Balance.",
+      "imagePath":"../res/gleitzeit.png"
+    },
+    {
+      "title":"FI-Sport",
+      "text": "Mit unserem Sportverein decken wir viele Sportarten ab! Vom Fußball bis hin zum E-Sport.",
+      "imagePath":"../res/sport.png"
+    },
+    {
+      "title":"Semester Pauschale",
+      "text": "Als dual Studierende/r erhälst du bei uns pro Semester eine Pauschale von 1300 € - 2000 €, basierend auf Deinem Studien- und Ausbildungsstandort. So kannst Du Deine laufenden Kosten sicher decken und Dich vollständig auf das Studium konzentrieren!",
+      "imagePath":"../res/pauschale.png"
+    },
+    {
+      "title":"Messen/Kundenveranstaltungen",
+      "text": "Als stolzer Veranstalter einer eigenen Messe, dem FI-Forum, ist es Dir möglich an dieser und vielen weiteren Messen wie der Horizon, jobmesse etc. teilzunehmen.",
+      "imagePath":"../res/messe.png"
+    },
+    {
+      "title":"Standortreisen",
+      "text": "Bei der Finanz Informatik geben wir Dir die Möglichkeit, während Deiner Ausbildung unsere drei Standorte: Frankfurt, Münster und Hannover kennenzulernen.",
+      "imagePath":"../res/standort.png"
+    },
+    {
+      "title":"Praxiserfahrung",
+      "text": "In deiner Abteilung sammelst Du echte Berufserfahrung und wirst bestens für deinen späteren Arbeitsalltag gerüstet.",
+      "imagePath":"../res/erfahrung.png"
+    },
+    {
+      "title":"Azubi-Events",
+      "text": "(Bei uns bist du nicht alleine - )Als einer unserer Azubis geben wir Dir die Möglichkeit an, durch die Firma organisierten Events teilzunehmen.",
+      "imagePath":"../res/erfahrung.png"
+    },
+    {
+      "title":"Betriebsrestaurant",
+      "text": "Bestens verpflegt! Mit unseren Kantinen an allen drei Standorten brauchst du Dir um frische Energie keine Sorgen zu machen.",
+      "imagePath":"../res/erfahrung.png"
+    },
+    {
+      "title":"Technische Ausstattung",
+      "text": "Top ausgestattet - Azubis erhalten neben ihren Notebook eine komplette Austattung. Damit kannst du nicht nur an einem unserer vielen Standorte aktiv sein, sondern auch Tätigkeiten von Zuhause erledigen.",
+      "imagePath":"../res/erfahrung.png"
+    }
+  ]
+}
