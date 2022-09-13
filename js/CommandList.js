@@ -710,10 +710,14 @@ class CommandList{
          * 4 if
          * 5 while*/
 
+    //|| this.liste[i].id == 4 && this.liste[i + 1].id == 4
+
         for(var i = 0; i < this.liste.length; i++){
             if ((this.liste.length - i) > 1) {
-                if (this.liste[i].id == 3 && this.liste[i + 1].id == 3 || this.liste[i].id == 4 && this.liste[i + 1].id == 4 || this.liste[i].id == 5 && this.liste[i + 1].id == 5) {
-                    return false;
+                if (this.liste[i].id == 3 && this.liste[i + 1].id == 3  || this.liste[i].id == 4 && this.liste[i + 1].id == 4 || this.liste[i].id == 5 && this.liste[i + 1].id == 5) {
+                    if (this.liste[i].subID == this.liste[i + 1].subID){
+                        return false;
+                    }
                 }
             }
             switch(this.liste[i].id){
