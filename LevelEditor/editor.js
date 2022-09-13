@@ -53,7 +53,7 @@ var img;
 
 function setup(){
     var canvas = createCanvas(500,675);
-    img = loadImage('../res/logo_neu_fi.png');
+    img = loadImage('../res/fi_logo.png');
     canvas.parent('canvas');
     background(255);
 }

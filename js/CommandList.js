@@ -34,10 +34,15 @@ class CommandList{
              * 9 true
              * 10 empty
              */
+
             MOVE: {id: 0, text: "Gehe", color: color('#6591cb'), func: function(){player.changeDestination(1)}, index: this.liste.length},
+
             TURN_LEFT: {id: 1, text: "Dreh links", color: color('#6591cb'), func: function(){player.turnLeft()}, index: this.liste.length},
+
             TURN_RIGHT: {id: 2, text: "Dreh rechts", color: color('#6591cb'), func: function(){player.turnRight()}, index: this.liste.length},
+
             IF: {id: 4, isNew: true, text: "Wenn", color: color('#f56476'), func: function(){
+
                 if(ifStarted && player.instructions[0].subID == list.lastIf[list.lastIf.length-1]){
                     //erst bei letzem lastif im array//ifStarted = false;
                     list.lastIf.pop();
@@ -79,15 +84,19 @@ class CommandList{
                     }
 
                 }else {
-
                     whileBlock =[];
+                    var whileCount = 1;
+                    var window = new Notification("Fehler", "Syntaxfehler");
+                    try {
+                        while (player.instructions[whileCount].id != 5) {
+                            whileBlock.push(player.instructions[whileCount]);
+                            whileCount++;
 
-                    var whileCount = 2;
-                    while(player.instructions[whileCount].id != 5){
-                        whileBlock.push(player.instructions[whileCount]);
-                        whileCount++;
+                        }
+                    } catch (e){
+                        list.runListe();
+                        return;
                     }
-
                     player.instructions.shift();
                     whileCondition = player.instructions[0].func;
                     if (whileCondition()) {
@@ -702,6 +711,11 @@ class CommandList{
          * 5 while*/
 
         for(var i = 0; i < this.liste.length; i++){
+            if ((this.liste.length - i) > 1) {
+                if (this.liste[i].id == 3 && this.liste[i + 1].id == 3 || this.liste[i].id == 4 && this.liste[i + 1].id == 4 || this.liste[i].id == 5 && this.liste[i + 1].id == 5) {
+                    return false;
+                }
+            }
             switch(this.liste[i].id){
                 case 3:
                     forCount++;

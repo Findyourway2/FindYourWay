@@ -51,8 +51,8 @@ function setup() {
     play = loadImage('../res/play.png');
     stop = loadImage('../res/stop.png');
     refresh = loadImage('../res/refresh.png');
-    logo_fi = loadImage('../res/logo_neu_fi.png');
-    logo_fi_neu = loadImage('../res/logo_neu_fi.png');
+    logo_fi = loadImage('../res/fi_logo.png');
+    logo_fi_neu = loadImage('../res/fi_logo.png');
     canvas = createCanvas(window.innerWidth, window.innerHeight);
     field = [];
     reference = getReference();

@@ -3,72 +3,72 @@
     {
       "title":"Vermögenswirksame Leistungen",
       "text": "Die Finanz Informatik zahlt monatlich 40 € für seine Arbeitnehmer direkt in eine spezielle Geldanlage ein, welche Du Dir selbstverständlich aussuchen darfst, um ein sicheres Vermögen aufzubauen.",
-      "imagePath":"../res/VL.png"
+      "imagePath":"../res/VL_grau.png"
     },
     {
       "title":"Bahncard 50",
       "text": "Alle Auszubildenden erhalten bei der Finanz Informatik eine Bahncard 50, damit bezahlst Du deutschlandweit nur noch die Hälfte für Dein Zugticket, auch privat!",
-      "imagePath":"../res/bahncard.png"
+      "imagePath":"../res/bahncard50_farbe.svg"
     },
     {
       "title":"Seminare",
       "text": "Mit professionellen und zielgerichteten Seminaren bringen wir Dir relevante Berufskenntnisse bei, um Dich und Deine Fertigkeiten immer auf dem neuesten Stand zu halten.",
-      "imagePath":"../res/seminare.png"
+      "imagePath":"../res/seminare_grau.svg"
     },
     {
       "title":"Vergütung",
       "text": "Mit einer Ausbildungsvergütung von anfangs 1146 € bis 1270 € bist Du mit uns einer der top-verdienenden Auszubildenden!",
-      "imagePath":"../res/verguetung.png"
+      "imagePath":"../res/verguetung_farbe.svg"
     },
     {
       "title":"Urlaub",
       "text": "Wir bieten Dir 30 Tage Urlaub, damit sind wir deutlich über dem gesetzlichen Minimum von nur 20 Tagen.",
-      "imagePath":"../res/urlaub.png"
+      "imagePath":"../res/urlaub_grau.png"
     },
     {
       "title":"Flexible Arbeitszeiten",
       "text": "Bei der Finanz Informatik sind Deine Arbeitszeiten flexibel, kein klassisches 9-To-5, die perfekte Work-Life-Balance.",
-      "imagePath":"../res/gleitzeit.png"
+      "imagePath":"../res/gleitzeit_grau.svg"
     },
     {
       "title":"FI-Sport",
       "text": "Mit unserem Sportverein decken wir viele Sportarten ab! Vom Fußball bis hin zum E-Sport.",
-      "imagePath":"../res/sport.png"
+      "imagePath":"../res/sport_farbe.svg"
     },
     {
       "title":"Semester Pauschale",
       "text": "Als dual Studierende/r erhälst du bei uns pro Semester eine Pauschale von 1300 € - 2000 €, basierend auf Deinem Studien- und Ausbildungsstandort. So kannst Du Deine laufenden Kosten sicher decken und Dich vollständig auf das Studium konzentrieren!",
-      "imagePath":"../res/pauschale.png"
+      "imagePath":"../res/pauschale_grau.png"
     },
     {
       "title":"Messen/Kundenveranstaltungen",
       "text": "Als stolzer Veranstalter einer eigenen Messe, dem FI-Forum, ist es Dir möglich an dieser und vielen weiteren Messen wie der Horizon, jobmesse etc. teilzunehmen.",
-      "imagePath":"../res/messe.png"
+      "imagePath":"../res/messe_farbe.png"
     },
     {
       "title":"Standortreisen",
       "text": "Bei der Finanz Informatik geben wir Dir die Möglichkeit, während Deiner Ausbildung unsere drei Standorte: Frankfurt, Münster und Hannover kennenzulernen.",
-      "imagePath":"../res/standort.png"
+      "imagePath":"../res/standorte_grau.png"
     },
     {
       "title":"Praxiserfahrung",
       "text": "In deiner Abteilung sammelst Du echte Berufserfahrung und wirst bestens für deinen späteren Arbeitsalltag gerüstet.",
-      "imagePath":"../res/erfahrung.png"
+      "imagePath":"../res/erfahrung_farbe.png"
     },
     {
       "title":"Azubi-Events",
-      "text": "(Bei uns bist du nicht alleine - )Als einer unserer Azubis geben wir Dir die Möglichkeit an, durch die Firma organisierten Events teilzunehmen.",
-      "imagePath":"../res/erfahrung.png"
+      "text": "Bei uns bist du nicht alleine! Alle Azubis von unseren drei Standorten nehmen zusammen an exklusiven Events teil, die an coolen Locations stattfinden.",
+      "imagePath":"../res/azubievent_grau.svg"
     },
     {
       "title":"Betriebsrestaurant",
       "text": "Bestens verpflegt! Mit unseren Kantinen an allen drei Standorten brauchst du Dir um frische Energie keine Sorgen zu machen.",
-      "imagePath":"../res/erfahrung.png"
+      "imagePath":"../res/kantine_farbe.svg"
     },
     {
       "title":"Technische Ausstattung",
-      "text": "Top ausgestattet - Azubis erhalten neben ihren Notebook eine komplette Austattung. Damit kannst du nicht nur an einem unserer vielen Standorte aktiv sein, sondern auch Tätigkeiten von Zuhause erledigen.",
-      "imagePath":"../res/erfahrung.png"
+      "text": "Top ausgestattet - Azubis erhalten neben ihrem Notebook eine komplette Austattung. Damit kannst du nicht nur an einem unserer vielen Standorte aktiv sein, sondern auch Tätigkeiten von Zuhause erledigen.",
+      "imagePath":"../res/technik_grau.svg"
     }
   ]
 }

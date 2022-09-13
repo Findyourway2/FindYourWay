@@ -20,7 +20,7 @@ class Tile{
         this.hue = 210; //Farbe 210 bis 330 und zurück
         this.farbRichtung = 'up'; //Boolean der angibt in welche Richtung die Farbe sich ändert
         //this.brickWall = loadImage('../res/brickwall_cut.png');
-        this.brickWall = loadImage('../res/wall2.png');
+        this.brickWall = loadImage('../res/wall.png');
     }
 
     setId(id){
